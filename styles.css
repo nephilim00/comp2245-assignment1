@@ -1,0 +1,16 @@
+/* Style Level 1 heading */
+h1 {
+    font-size: 24px;
+    color: #38B2AC;
+}
+
+/* Style Level 2 heading */
+h2 {
+    font-size: 21px;
+    color: #5A67D8;
+}
+
+/* Style paragraphs */
+p {
+    font-size: 18px;
+}
